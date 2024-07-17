@@ -10,7 +10,7 @@ The dashboard was implemented for a photovoltaic project analysis, where battery
 
 https://github.com/user-attachments/assets/95605348-3bdc-4493-ad6c-58f879e08206
 
-# Image of Dashboard
+# Image of Dashboard 📈
 
 ![Captura de Tela (813)](https://github.com/user-attachments/assets/2d3d83b0-4938-479e-ac2d-04db2e7d23b4)
 
